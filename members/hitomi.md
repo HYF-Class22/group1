@@ -8,7 +8,7 @@
 
 - Leuven, Belgium
 
-## I love...
+## I love
 
 - cats
 - movies
