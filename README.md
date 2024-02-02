@@ -7,8 +7,7 @@ Check out our team members for more details:
 
 - [Younes](./members/younes.md)
 - [Hitomi](./members/hitomi.md)
-- [Amine]()
-- [Khurram]()
+- [Amine](./members/amine.md)
 
 ## We aspire
 
