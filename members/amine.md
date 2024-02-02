@@ -1,9 +1,9 @@
-## Welcome to Amine space
+# Welcome to Amine space
 
 👋 Hi, I'm Amine, a 19-year-old entrepreneur and passionate feature developer.
 🚀
 
-### 🔧 Skills
+## 🔧 Skills
 
 - Software Development
 - Entrepreneurship
